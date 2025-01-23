@@ -48,10 +48,10 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 Course number | Course title  |  Instructor name 
 ------------  | ------------  | ----------------
-2401          |Data Science 1 | Katherine Shoemaker 
-2301          |Economics      | Shaung Xu
-2422          |Calculus       | Edwin Tecarro
-3302          |Stat           | Patrick King
+**2401**          |*Data Science 1* | Katherine Shoemaker 
+**2301**          |*Economics*     | Shaung Xu
+**2422**          |*Calculus*       | Edwin Tecarro
+**3302**         |*Stat*           | Patrick King
 
 
 
@@ -63,7 +63,9 @@ Course number | Course title  |  Instructor name
 
 * "Ready Player One"
 * "Ready Player Two" 
-* "Armada", "The Importance of being Ernest", "Bridge to Bat City"
+* "Armada" 
+* "The Importance of being Ernest" 
+* "Bridge to Bat City"
 
 
 
